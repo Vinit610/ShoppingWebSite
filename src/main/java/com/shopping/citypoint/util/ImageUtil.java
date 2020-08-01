@@ -1,6 +1,5 @@
-package com.shopping.citypoint.extra;
+package com.shopping.citypoint.util;
 import java.io.IOException;
-import java.util.Optional;
 import java.util.zip.DataFormatException;
 import java.util.zip.Deflater;
 import java.util.zip.Inflater;
